@@ -8,7 +8,7 @@
 - Shaima Alamri
 - Rahaf Shiqdar
 
-In this project, we used the R language
+**In this project, we used the R language**
 1. We Determined the ticket costs for children and adults
 2.  We List our 5 favourite movies
 3. We Determined how many movie theatres screens our theatre has
