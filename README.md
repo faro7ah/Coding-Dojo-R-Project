@@ -51,7 +51,7 @@ In this Bar chart, we determined two theatres the first one included 88 audience
 
 
 
-## Ptoject Tools and functiond:
+## Ptoject Tools and functions:
 1. [Sample](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/sample)
 2. [rbind](https://www.rdocumentation.org/packages/SparkR/versions/2.4.6/topics/rbind)
 3. [rep](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/rep)
