@@ -41,4 +41,14 @@ Team members:
 Visualization Part:
 We visualized our results and used diversified char types to convey our message and finding out the results.
 
+## Ptoject Tools and functiond:
+1. (Sample())[https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/sample]
+2. (rbind()[https://www.rdocumentation.org/packages/SparkR/versions/2.4.6/topics/rbind]
+3. (rep())[https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/rep]
+3. (order())[https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/order]
+4. (barplot())[https://www.rdocumentation.org/packages/graphics/versions/3.6.2/topics/barplot]
+5. (cat())[https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/cat]
+
+
+
 
