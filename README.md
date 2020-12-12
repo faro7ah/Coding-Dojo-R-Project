@@ -43,11 +43,13 @@ We visualized our results and used diversified char types to convey our message 
 
 ## Results:
 - We found that Friday recorded the highest rate of revenue.
-![](Bar1.jpg)
+[![](Bar1.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
 This Bar plot illustrates, most of the visitor prefers to buy a cola as a snack in the theatre.
-![](bar2.jpg)
+[![](bar2.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
 In this Bar chart, we determined two theatres the first one included 88 audiences, and the other theatre included only 13 visitors.
-![](bar3.jpg)
+[![](bar3.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
+
+
 
 ## Ptoject Tools and functiond:
 1. [Sample](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/sample)
