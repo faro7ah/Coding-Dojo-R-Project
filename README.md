@@ -42,9 +42,9 @@
 We visualized our results and used diversified char types to convey our message and finding out the results.
 
 ## Results:
-![](image/Bar1.jpg)
-![](image/bar2.jpg)
-![](image/bar3.jpg)
+![](Bar1.jpg)
+![](bar2.jpg)
+![](bar3.jpg)
 
 ## Ptoject Tools and functiond:
 1. [Sample](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/sample)
