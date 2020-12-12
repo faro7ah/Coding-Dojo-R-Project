@@ -3,8 +3,8 @@
 ## Introduction:
 **Team Members:**
 
-- Farah Sidina
-- Bedoor Alharbi
+- [Farah Sidina](https://github.com/faro7ah)
+- [Bedoor Alharbi](https://gist.github.com/ibedoor)
 - Shaima Alamri
 - Rahaf Shiqdar
 
@@ -24,8 +24,8 @@
 13. We Make another chart of our choice.
 14. We decided Which day has the highest revenue?
 ### Team members:
-- Bedoor Alharbi
-- Farah Sidina
+- [Bedoor Alharbi](https://gist.github.com/ibedoor)
+- [Farah Sidina](https://github.com/faro7ah)
 - Shaima Alamri
 
 **Optional Tasks:**
@@ -35,8 +35,8 @@
 3. We created a conditional statement for movies that may be PG-13 and not appropriate for kids and make sure your code reflects that kids cannot watch the movie.
 
 **Team members:**
-- Bedoor Alharbi
-- Farah sidina
+- [Bedoor Alharbi](https://gist.github.com/ibedoor)
+- [Farah Sidina](https://github.com/faro7ah)
 
 ## Visualization Part:
 We visualized our results and used diversified char types to convey our message and finding out the results.
@@ -56,6 +56,7 @@ In this Bar chart, we determined two theatres the first one included 88 audience
 3. [order](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/order)
 4. [barplot](https://www.rdocumentation.org/packages/graphics/versions/3.6.2/topics/barplot)
 5. [cat](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/cat)
+6. [which](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/which)
 
 
 
