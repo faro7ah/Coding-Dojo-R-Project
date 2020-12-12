@@ -44,8 +44,9 @@ We visualized our results and used diversified char types to convey our message 
 ## Results:
 - We found that Friday recorded the highest rate of revenue.
 ![](Bar1.jpg)
-In this Bar plot
+This Bar plot illustrates, most of the visitor prefers to buy a cola as a snack in the theatre.
 ![](bar2.jpg)
+In this Bar chart, we determined two theatres the first one included 88 audiences, and the other theatre included only 13 visitors.
 ![](bar3.jpg)
 
 ## Ptoject Tools and functiond:
