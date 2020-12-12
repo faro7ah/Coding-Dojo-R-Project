@@ -1,7 +1,7 @@
 # Coding-Dojo-R-Project
 
 ## Introduction:
-### Team Members:
+**Team Members:**
 
 - Farah Sidina
 - Bedoor Alharbi
@@ -28,17 +28,17 @@ In this project, we used the R language
 - Farah Sidina
 - Shaima Alamri
 
-Optional Tasks:
+**Optional Tasks:**
 1. We created snacks (Popcorn, chocolate, candy, etc.) and associate a price for each item created. We created a condition statement that determined whether a customer bought a snack or not. We even decided if children should be able to buy snacks.
 
 2. We Pretend multiple theatres and run two simulations to represent each theatre and plot the results. (The theatres should not have the same number of screens or seating capacity per theatre).
 3. We created a conditional statement for movies that may be PG-13 and not appropriate for kids and make sure your code reflects that kids cannot watch the movie.
 
-Team members:
+**Team members:**
 - Bedoor Alharbi
 - Farah sidina
 
-Visualization Part:
+## Visualization Part:
 We visualized our results and used diversified char types to convey our message and finding out the results.
 
 ## Ptoject Tools and functiond:
