@@ -41,6 +41,11 @@
 ## Visualization Part:
 We visualized our results and used diversified char types to convey our message and finding out the results.
 
+## Results:
+![](image/Bar1.jpg)
+![](image/bar2.jpg)
+![](image/bar3.jpg)
+
 ## Ptoject Tools and functiond:
 1. [Sample](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/sample)
 2. [rbind](https://www.rdocumentation.org/packages/SparkR/versions/2.4.6/topics/rbind)
