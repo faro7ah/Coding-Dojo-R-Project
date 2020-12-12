@@ -42,7 +42,9 @@
 We visualized our results and used diversified char types to convey our message and finding out the results.
 
 ## Results:
+- We found that Friday recorded the highest rate of revenue.
 ![](Bar1.jpg)
+In this Bar plot
 ![](bar2.jpg)
 ![](bar3.jpg)
 
