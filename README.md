@@ -39,15 +39,14 @@
 - [Farah Sidina](https://github.com/faro7ah)
 
 ## Visualization Part:
-We visualized our results and used diversified char types to convey our message and finding out the results.
+We visualized our results to convey our message and finding out the results.
 
 ## Results:
-- We found that Friday recorded the highest rate of revenue.
+It is illustrated from the Bar charts, that Monday showing the highest rate of revenue of theatre #1, then theatre #2 recorded the highest rate of revenue with 6000 SAR approximately.
 [![](Bar1.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
-This Bar plot illustrates, most of the visitor prefers to buy a cola as a snack in the theatre.
 [![](bar2.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
-In this Bar chart, we determined two theatres the first one included 88 audiences, and the other theatre included only 13 visitors.
-[![](bar3.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
+- The bar chart illustrates that candy showing the highest rate of purchases on the other hand popcorn showing the lowest purchases rate.
+[![](bar4.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
 
 
 
