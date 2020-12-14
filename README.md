@@ -42,10 +42,10 @@
 We visualized our results to convey our message and finding out the results.
 
 ## Results:
-It is illustrated from the Bar charts, that Monday showing the highest rate of revenue of theatre #1, then theatre #2 recorded the highest rate of revenue with 6000 SAR approximately.
+. It is illustrated from the Bar charts, that Monday showing the highest rate of revenue of theatre #1, then theatre #2 recorded the highest rate of revenue with 6000 SAR approximately.
 [![](Bar1.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
 [![](bar2.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
-- The bar chart illustrates that candy showing the highest rate of purchases on the other hand popcorn showing the lowest purchases rate.
+. The bar chart illustrates that candy showing the highest rate of purchases on the other hand popcorn showing the lowest purchases rate.
 [![](bar4.jpg)](https://gist.github.com/faro7ah/01d1a5d341ce2f97542e1d9812e2eabd)
 
 
