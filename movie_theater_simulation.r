@@ -1,13 +1,17 @@
 # Cost for adults and children
 ticket_cost <- 60
 ticket_cost_child <- 30
+
 # List 5 of your favorite movies
 movies <- c('Toy Story', 'Another Round'='PG-13', 'Captain Phillips',
             'Once Upon a Time','The Assistant'='PG-13') 
+
 # How many screens does the theater have? (assume 1 per movie)
 screens <- 10
+
 # How many seats does each theater hold
 seats <- 100 
+
 week_days <- rep(0, 7)  # Store totals for each day
 theater_sim <- function(screen=screens,  # how many screens?
                         seat=seats,  # how many seats per screen?
@@ -17,14 +21,12 @@ theater_sim <- function(screen=screens,  # how many screens?
   
 # iterate through the week
   for (i in 1:length(week_days)) {
-    
   
   # Keep track of total revenue for the day
     Total_revenue <- 0
   
   # iterate through the amount of screens on a particular day
   for (j in 1:length(screens)) {
-    
     
     # Calculate  how many adults and children are watching the movie
     visitors_adults <- sample(seats, 1)
@@ -55,9 +57,11 @@ snack
 for(i in 1:length(seats)){
   visitors_adults <- sample(seats, 1)
   visitors_children <- sample((seats - visitors_adults), 1)
-  #determining if the visitor buoght snack or not instaed of ticket price, If the visitor did not bought snack then the price will be price of  ticket only. If the visitor bought snack then the price will be ticket price + snack price
+  
+  #Determining if the visitor bought a snack or not instead of the ticket price, If the visitor did not buy snack then the price will be the price of ticket only. If the visitor bought a snack then the price will be ticket price + snack price
   customer_without_snacks <- sample(ticket_cost, 1) 
   customer_with_snacks <- sample(((snacks + ticket_cost) - customer_without_snacks), 1) 
+  
   # condition statement that determines whether a customer bought a snack or not
   if(customer_without_snacks < customer_with_snacks){
     customer_without_snacks = customer_without_snacks + 1
@@ -70,7 +74,6 @@ total_snacks_purchases <- rbind(customer_without_snacks, customer_with_snacks)
 
 cat('Numbers of customers who bought snacks or not: ', total_snacks_purchases)
 cat('type of snack with numbers of customers who bought snacks or not respectively: ', snack," " ,total_snacks_purchases )
-
 
 
 #determine the purcheses of each snack
@@ -93,8 +96,6 @@ if(snacks_children == 'Able'){
   print('Kids can not buy snacks')
 }
 
-
-
 # 3 Condition statement for movies that may be PG-13 and not appropriate for kids 
 movies_rating <- sample(movies, 1)
 if(movies_rating=='PG-13'){
@@ -103,8 +104,6 @@ if(movies_rating=='PG-13'){
   print('Appropriate for kids')
 }
 
-
-
 # simulate 2 movie theaters for 1 week
 theater_01 <- theater_sim()
 theater_02 <- theater_sim(seat=75, 
@@ -112,8 +111,8 @@ theater_02 <- theater_sim(seat=75,
 theater_03 <- theater_sim(ticket_costs =100,
                           ticket_cost_childs =60)
 
-# make a barchart showing total revenue per day
-barplot(theater_01,  # <- what's being plotted
+# make a barchart showing total revenue per day for each theater
+barplot(theater_01,  
         main = "Theater #1 - Total Movie Revenue Per Day", 
         xlab = "Day of Week",  
         ylab = "Revenue (SAR)",  
@@ -139,9 +138,6 @@ barplot(theater_03,
         col = "purple",  
         density = 20,  
 )
-
-
-
 
 # (function) which day showing the highest rate of revenue
 find_best_day <- function(theater){
